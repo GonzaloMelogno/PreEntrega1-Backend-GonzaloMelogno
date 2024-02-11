@@ -1,4 +1,3 @@
-// RoutesCart.js
 const express = require('express');
 const CartManager = require('./CartManager');
 
